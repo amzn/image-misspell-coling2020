@@ -1,11 +1,6 @@
-## My Project
+## Image-MisSpell Dataset
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+We are releasing the Image-MisSpell dataset Train/Test splits. They consist of misspelled words, the closest autcorrect form and its associated extracted features. For more details about the dataset, please check our paper Misspelling Detection from Noisy Product Images published at COLING 2020.
 
 ## Security
 
